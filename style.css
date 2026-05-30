@@ -5,8 +5,8 @@ body {
 
 /* HERO SECTION */
 .hero {
-  background: linear-gradient(135deg, #4a6cf7, #6c8cff);
-  color: white;
+  background: linear-gradient(135deg, #fdfbfb, #ebedee);
+  color: #2c2c2c;
   padding: 100px 20px;
 }
 
@@ -42,12 +42,12 @@ h2 {
 
 /* BUTTONS */
 .btn-primary {
-  background-color: #4a6cf7;
+  background-color: #6c7a89;
   border: none;
 }
 
 .btn-primary:hover {
-  background-color: #2f4de0;
+  background-color: #4b5563;
 }
 
 /* CONTACT LINKS */
